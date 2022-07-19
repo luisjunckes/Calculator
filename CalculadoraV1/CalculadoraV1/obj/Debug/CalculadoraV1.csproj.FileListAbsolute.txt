@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.exe.config
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.exe
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.pdb
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.Form1.resources
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.exe
+C:\Users\Aluno\Desktop\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.pdb
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.exe.config
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.exe
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.pdb
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.Form1.resources
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.Properties.Resources.resources
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.exe
+C:\Users\Aluno\Downloads\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.pdb
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.exe.config
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.exe
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\bin\Debug\CalculadoraV1.pdb
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.Form1.resources
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.Properties.Resources.resources
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.exe
+C:\Users\luisj\Desktop\BACKUP PROJETOS C#\CalculadoraV1\CalculadoraV1\obj\Debug\CalculadoraV1.pdb
